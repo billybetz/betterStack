@@ -1,0 +1,596 @@
+[
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/blocks.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "512"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/bucket.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_tool_bucket_empty",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/building.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/component.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_consumable_component",
+                "propToChange": "stackSize",
+                "value": "30"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/consumable_shared.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_consumable_water",
+                "propToChange": "stackSize",
+                "value": "100"
+            },
+            {
+                "objectName": "obj_plantables_potato",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_consumable_chemical",
+                "propToChange": "stackSize",
+                "value": "100"
+            },
+            {
+                "objectName": "obj_consumable_inkammo",
+                "propToChange": "stackSize",
+                "value": "500"
+            },
+            {
+                "objectName": "obj_consumable_glowstick",
+                "propToChange": "stackSize",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/consumable.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_consumable_sunshake",
+                "propToChange": "stackSize",
+                "value": "10"
+            },
+            {
+                "objectName": "obj_consumable_milk",
+                "propToChange": "stackSize",
+                "value": "10"
+            },
+            {
+                "objectName": "obj_consumable_soilbag",
+                "propToChange": "stackSize",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/decor.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "AAA",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_poster01",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_poster02",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_poster03",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_sign_warehouse",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_sign_elevator",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_sign_storage",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_sign_packaging",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_sign_office",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_sign_utility",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_road_signcurve",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_road_signpost",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_road_signfoundation",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_cashregister",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_openclosedsign",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_rottenfruit",
+                "propToChange": "stackSize",
+                "value": "20"
+            },
+            {
+                "objectName": "obj_decor_basketstack",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sunshakemachine",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sunshakeudder",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_haybale",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_haybaleround",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/lights.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/manmade.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/plantables.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_seed_banana",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_blueberry",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_orange",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_pineapple",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_carrot",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_redbeet",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_tomato",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_broccoli",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_potato",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_seed_cotton",
+                "propToChange": "stackSize",
+                "value": "200"
+            },
+            {
+                "objectName": "obj_plantables_banana",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_blueberry",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_orange",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_pineapple",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_carrot",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_redbeet",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_tomato",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "obj_plantables_broccoli",
+                "propToChange": "stackSize",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/resource.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "Aobj_resource_ember",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_beewax",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resources_slimyclam",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_cotton",
+                "propToChange": "stackSize",
+                "value": "100"
+            },
+            {
+                "objectName": "Aobj_resource_corn",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_circuitboard",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_steak",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_glowpoop",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_flower",
+                "propToChange": "stackSize",
+                "value": "100"
+            },
+            {
+                "objectName": "Aobj_consumable_glue",
+                "propToChange": "stackSize",
+                "value": "50"
+            },
+            {
+                "objectName": "Aobj_resource_crudeoil",
+                "propToChange": "stackSize",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/spaceship.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "AAA",
+                "propToChange": "stackSize",
+                "value": "AAA"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/spaceship.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_spaceship_cranewheel",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Survival/Objects/Database/Shapesets/warehouse.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_warehouse_beambig",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beambiglong",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beambigturn",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beambigbend",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beambigsplit",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beambigintersect",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beambigend",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beamframe",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beamframelong",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beamframeend",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_beamframeturn",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_bigramp",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_bigrampsmall",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_bigrampthin",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_bigrampthinsmall",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_warehouse_doorframelight",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Data/Objects/Database/Shapesets/blocks.json",
+        "mainPropName": "blockList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "512"
+            }
+        ]
+    },
+    {
+        "filePath": "Data/Objects/Database/Shapesets/decor.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "obj_decor_sign01",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign02",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign03",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign04",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign05",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign06",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign07",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign08",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_sign09",
+                "propToChange": "stackSize",
+                "value": "5"
+            },
+            {
+                "objectName": "obj_decor_arrowsign",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "filePath": "Data/Objects/Database/Shapesets/fittings.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "30"
+            }
+        ]
+    },
+    {
+        "filePath": "Data/Objects/Database/Shapesets/industrial.json",
+        "mainPropName": "partList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "30"
+            }
+        ]
+    },
+    {
+        "filePath": "Data/Objects/Database/Shapesets/plants.json",
+        "mainPropName": "blockList",
+        "updates": [
+            {
+                "objectName": "ALL",
+                "propToChange": "stackSize",
+                "value": "5"
+            }
+        ]
+    }
+]

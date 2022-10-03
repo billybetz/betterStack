@@ -1,0 +1,77 @@
+[h1] This mod update the stack size of many items. [/h1]
+
+[i] I'm a newby at making mods, remarks and comments are welcome for any mod improvements or updates  [/i]
+
+[h2] Summary: [/h2]
+1 - How to install this mod
+2 - How to uninstall this mod
+3 - List of changes
+
+------------------------------------------
+
+[h2] 1 - HOW TO INSTALL THIS MOD [/h2]
+  The only way for now to use a mod in scrap-mechanic, is to override manually the files of the game.
+  (Keep in mind that you will be able to easily restore the original game files if you want with steam)
+
+ [url=https://www.youtube.com/watch?v=ZbfB5nJ_BaM] VIDEO (not mine) [/url]
+
+  MANUAL STEPS :
+
+    - Subscribe to this mod page (this will download the content)
+    - Go to your game library
+    - right click on scrap mechanic => "property" => "local files" => "browse ..."
+    (keep this page open and do next steps)
+
+    - open the explorer and navigate to : 
+    "this pc" => OS (C:) => "Programmes (x86)" => "Steam" => "steamapps" => "workshop" => "content" => "387990" => folder with numbers => "OVERWRITE"
+    
+     - Copy "Data" and "Survival" folders (select and CTRL+C  or select => right click => "copy")
+     - Paste both folders inside the other file explorer and click "replace files in destination"
+
+------------------------------------------
+
+[h2] 2 - HOW TO UNINSTALL THIS MOD [/h2]
+    
+  From your steam library: 
+    - right click on scrap mechanic
+    - click "property" => "local files" => "verify integrity of game files"
+
+  2nd solution:
+    you can follow the exact same steps that installation but instead clicking "OVERWRITE" folder, click "main" folder
+
+------------------------------------------
+
+[h2] 3 - LIST OF CHANGES [/h2]
+here is the [b]nearly[/b] complete list of stack size changes
+
+- Empty bucket : 1 => 5
+- All blocks : 256=> 512
+- All pipes : 10 => 30
+- Industrial beams : 1 => 30
+ 
+- Water / Oil / chemical liquids : 20 => 100 
+- Potatoes : 50 => 200
+- Fruits / vegetables : 10 => 50
+- Seeds : 20 => 200
+- SoilBag : 5 => 10
+- potted plants: 1 => 5
+
+- Ember : 10 => 50
+- Beewax : 10 => 50
+- Slimyclam : 10 => 50
+- Cotton :  20 => 100
+- Corn : 10 => 50
+- Circuitboard : 20 => 50
+- Steak : 10 => 50
+- Glowpoop: 10 => 50
+- Flower : 20 => 100
+- Glue : 10 => 50
+
+- some builing + decor object : 1 => 20
+- Warehouse key card : 1 => 5
+
+- Warehouse beams and ramps : 1 => 10
+- generated shops scrap-walls : 1 => 5
+- generated shops scrap-roofs : 1 => 5
+- generated shops sign, light and posters : 1 => 5
+
